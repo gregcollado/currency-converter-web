@@ -19,7 +19,7 @@ let myCurrencys = {
 
 // 2. PETICIÓN A LA API
 async function getData() {
-    const url = 'http://localhost:3000/api/tasas';
+    const url = 'https://currency-converter-web-6t9b.onrender.com';
 
     try {
         const response = await fetch(url);
