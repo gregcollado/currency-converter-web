@@ -8,6 +8,16 @@ Puedes probar la aplicación desplegada aquí:
 
 **[Abrir Currency Converter Web](https://currency-converter-web-mocha.vercel.app/)**
 
+## Diseño en Figma
+
+El prototipo visual utilizado como referencia para la interfaz está disponible en Figma:
+
+**[Ver prototipo en Figma](https://www.figma.com/proto/OVerEnInCYAQjNOfUbGR8f/currency-converter-web?node-id=0-1&t=HjnOHkJZS8sdmkK0-1)**
+
+### Vista previa
+
+![Vista previa del diseño de Currency Converter Web](frontend/img/Desktop%20-%201.png)
+
 ## Características
 
 - Conversión entre euros, dólares estadounidenses y pesos dominicanos.
@@ -40,7 +50,9 @@ currency-converter-web/
 ├── frontend/
 │   ├── index.html           # Estructura de la aplicación
 │   ├── script.js            # Consulta de tasas y lógica de conversión
-│   └── styles.css           # Estilos responsive y modo oscuro
+│   ├── styles.css           # Estilos responsive y modo oscuro
+│   └── img/
+│       └── Desktop - 1.png  # Captura del prototipo visual
 ├── .gitignore
 ├── package.json
 └── README.md
