@@ -131,6 +131,6 @@ Este proyecto fue creado para practicar y demostrar:
 
 ## Autor
 
-**Gregorio Collado**
+**Gregory Collado**
 
 - GitHub: [gregcollado](https://github.com/gregcollado)
