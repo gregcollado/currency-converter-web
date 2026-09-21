@@ -12,7 +12,7 @@ Puedes probar la aplicación desplegada aquí:
 
 El prototipo visual utilizado como referencia para la interfaz está disponible en Figma:
 
-**[Ver prototipo en Figma]([https://www.figma.com/proto/OVerEnInCYAQjNOfUbGR8f/currency-converter-web?node-id=0-1&t=HjnOHkJZS8sdmkK0-1](https://www.figma.com/design/OVerEnInCYAQjNOfUbGR8f/currency-converter-web?node-id=0-1&t=HjnOHkJZS8sdmkK0-1))**
+**[Ver prototipo en Figma](https://www.figma.com/design/OVerEnInCYAQjNOfUbGR8f/currency-converter-web?node-id=0-1&t=HjnOHkJZS8sdmkK0-1)**
 
 ### Vista previa
 
